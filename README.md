@@ -7,5 +7,3 @@
 💻 Currently Learning: Swift, Python, Java, C#
 
 📫 Reach me at: zhoulang731@gmail.com
-
-***万事胜意***
