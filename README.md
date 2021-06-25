@@ -2,8 +2,10 @@
 
 🌍 Where am I: Shanghai, China
 
-🎓 What am I: Student
+🎓 What am I: Student, Developer
 
-💻 Currently Learning: Swift, Python, Java, C#
+💻 Currently Learning: Python, CUDA, Swift
+
+😏 Interested in: Computer vision, High performance computing
 
 📫 Reach me at: zhoulang731@gmail.com
