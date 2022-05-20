@@ -1,11 +1,5 @@
-### Welcome to My Profile Page! 👋
+Undergraduate at College of Surveying and Geo-Informatics, Tongji University.
 
-🌍 Where am I: Shanghai, China
+Interest Field: computer vision, pattern recognition, machine learning
 
-🎓 What am I: Student, Developer
-
-💻 Currently Learning: Python, CUDA, Swift
-
-😏 Interested in: Computer vision, High performance computing
-
-📫 Reach me at: zhoulang731@gmail.com
+Skills: Python, C++, C#, MATLAB
