@@ -1,4 +1,6 @@
-Undergraduate at College of Surveying and Geo-Informatics, Tongji University.
+*B.Eng.* in Surveying and Mapping Engineering, Tongji University.
+
+Currently pursuing *M.Sc.* in Artificial Intelligence, Vrije Universiteit Amsterdam.
 
 Interest Field: computer vision, pattern recognition, machine learning
 
